@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS442HW3</string>
+    <string name="about">about</string>
+    <string name="add">add</string>
+    <string name="save">save</string>
+    <string name="bg">bg</string>
+</resources>
